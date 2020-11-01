@@ -31,14 +31,14 @@ visitons
 
 1.3
 
-commen_ons
+commençons
 avancez
-d place
-devan_ons
-announ_ons
+déplace
+devançons
+announçons
 effaces
 exercent
-finan_ons
+finançons
 menace
 
 1.4
@@ -105,11 +105,11 @@ Il est président depuis 2005
 Ce magasin est fermé depuis deux mois.
 
 1.10
-J'étudie fran_ais
+J'étudie français
 J'épelle mon nom.
 Ils déménagent demain.
 Elle aime voyager en bateau.
-Depuis combien de temps étudies-tu le fran_ais
+Depuis combien de temps étudies-tu le français
 Tu répètes la phrase.
 Nous finançons le projet.
 Elle annule la réunion.
@@ -117,7 +117,119 @@ Depuis combien de temps habites-tu dans cette maison
 Je pèse les legumes.
 
 
+2.1 
+cueillons
+finissent
+remplis
+investissons
+mentissent
+ouvrent
+réfléchissez
+sens
+offrissent
+meut
 
+2.2
+1-h,2-j,3-a,4-e,5-i
+6-b,7-d,8-f,9-g,10-c
 
+2.3
+Nous partions à dix heures.
+Elle ouvre la porte
+Nous apportez des fleurs dans le jardin de Florence.
+Le voiture ralentit
+Nous sors dehors se soir.
+Elle seizer la opportune
+Elle blushis facilement.
+Ils courent vide.
+Elle solve le misterie
+Ils dorment dans le salle de Sonia.
 
+2.4
+répondons
+répand
+rendez
+vendent
+descends
+attends
+tend
+perd
+prétend
+étendent
+
+2.5
+1h,2e,3g,4d,5a
+6c,7b,8j,9i,10f
+
+2.6
+prenons
+entreprend
+apprend
+comprenez
+apprennent
+surprend
+prenez
+comprenons
+prends
+comprend
+
+2.7
+1. He is learning Chinese.          Il apprend chinois
+2. She takes the subway every day.          Elle prend le metro chaque jour.
+3. He often loses his keys.             Il souvent pred son cles
+4. I can hear Pierre on the street.         J'entend Pierre dans la rue.
+5. He claims to be the king’s brother.          Il prétend le frere de roi
+6. You answer quickly.          Vous responez vide
+7. She sells fl owers.          Elle vend des fleurs
+8. We go down the Champs-Élysées.           Nous descendons le Champs-Élysées
+9. I am going down.                         Je descend
+10. We are waiting for an answer.           Nous attendons pour un response.
+
+2.8
+Remplissent-ils les formulaires
+Réfléchit-il au problème
+Aimez-vous aller au théâtre
+Préfère-t-elle voyager en Italie
+écoutes-tu le discours du président
+Influencent-ils le public
+Annule-t-elle son voyage au Brésil
+Travailles-tu le jeudi
+Apportez-vous un nouveau livre
+Agrandit-elle les photos.
+
+2.9
+1. Est-ce-qu'ils parlent de la nouvelle transaction.
+2. Est-ce-qu'elle apprend le portugais
+3. Est-ce-que Vous commandez une bouteille de vin blanc.
+4. Est-ce-que Tu demandes une augmentation de salaire.
+5. Est-ce-qu'Ils financent un grand projet.
+6. Est-ce-que Vous choisissez une autre direction.
+7. Est-ce-qu'Ils finissent tard.
+8. Est-ce-qu'Il prétend être pauvre.
+9. Est-ce-qu'Ils défendent cette théorie
+10. Est-ce-que Vous descendez par l’escalier.
+
+2.10
+1. Il n'encourage pas ses employés.
+2. Ils ne visitent pas le musée.
+3. Tu ne gagnes pas à la loterie.
+4. Elle n'enlève pas son chapeau.
+5. Vous n'exprimez pas vos opinions.
+6. Tu ne pèses pas les fruits.
+7. Il ne danse pas la valse.
+8. Vous ne corrigez pas les copies des étudiants.
+9. Nous n'étudions pas l’arabe.
+10. Il ne maigrit pas en vacances.
+
+2.11
+1. I am learning Japanese.              J'apprend Japonais
+2. He does not speak Italian.           Je ne parle pas italien
+3. She eats neither meat nor cheese.            Elle mange ni meat ni fromage    
+4. They never listen to anybody.            Ils ne entrend jamais chaqun personne
+5. You work late.                   Vous travaillez tard
+6. They like neither tea nor coffee.            Ils aiment ni thé ni coffee
+7. Do you understand the question?              Est-ce que vous comprend la question
+8. We pick fl owers in the garden.          Nous apportons les fleurs dans le jardin.
+9. He never takes off his hat.              Il ne enlève jamais son chapeau
+10. She never lies.                         Elle ne ment jamais
 

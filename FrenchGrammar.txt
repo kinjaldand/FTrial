@@ -27,7 +27,14 @@ Verb Congugation
         nous, vous
             e + l + ending
         OTHERS
-            e + ll + ending            
+            e + ll + ending    
+
+    -ir verbs
+        is,is,it,issons,issez,issent
+        irregular
+    -re verbs
+        s,s, , ons,ez,ent
+    
         
         
 Tense
@@ -43,3 +50,41 @@ Tense
             The present tense is used to express an action that began in the past and continues in the present.
             Note that in English, the past tense is used.
             There are diff erent ways to formulate the questions, using either depuis, il y a... que, cela (ça) fait... que
+            
+            
+Interrogative
+    Inverse
+    Est-ce que
+    upward inntonation
+            
+            
+Negative Form:
+    ne...pas
+    Il n’attend personne. He is not waiting for anybody.
+    Tu ne voyages jamais en hiver. You never travel during the winter.
+    Il n’a plus de patience. He has no patience left .
+    Elle ne répond rien. She does not answer anything.(She answers nothing.)
+    Ce n’est guère raisonnable. It’s hardly reasonable
+            
+    ni-ni
+
+    The negation ni… ni… precedes each noun that it negates. In addition, the negative particle ne
+    (n’) comes directly before the verb. When the defi nite article le, la, l’, les is used before the noun,
+    the definite article remains when the verb is negative.
+    
+        Il aime le café et le chocolat. He likes coff ee and chocolate.
+        Il n’aime ni le café ni le chocolat. He likes neither coff ee nor chocolate.
+        Elle aime le bleu et le jaune. She likes blue and yellow.
+        Elle n’aime ni le bleu ni le jaune. She likes neither blue nor yellow.
+        
+    When the indefi nite or partitive article is used before the noun in the affi rmative sentence,
+    the article disappears when the verb is made negative.
+    
+        Elle commande de l’eau et du vin. She orders water and wine.
+        Elle ne commande ni eau ni vin. She orders neither water nor wine.
+        Il vend des oranges et des mangues. He sells oranges and mangoes.
+        Il ne vend ni oranges ni mangues. He sells neither oranges nor mangoes.
+                
+            
+            
+            
