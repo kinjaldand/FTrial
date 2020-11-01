@@ -23,11 +23,11 @@ visitons
 3. He speaks French.                il parle français
 4. You bring some flowers. (formal)            Vous apportez des fleurs.
 5. I cut the bread.                     Je coupe le pain.
-6. They are having lunch with Julie.        Ils mangeons déjuner avec julie
+6. They are having lunch with Julie.        Ils déjeunent avec julie
 7. He borrows ten euros.            Il emprunte dix euros.
-8. I order a dessert.       Je commande une dessert.
-9. You study Russian. (informal)            Tu étudie russian
-10. They are looking for a good restaurant.     Ils cherchent une bonne restaurante
+8. I order a dessert.       Je commande un dessert.
+9. You study Russian. (informal)            Tu étudies le russe
+10. They are looking for a good restaurant.     Ils cherchent un bon restaurant
 
 1.3
 
@@ -78,14 +78,14 @@ bavardons
 rappelez
 
 1.7
-1-i, 2-e, 3-a,4-b,5-b,6-j,7-c,8-d,9-f,10-h
+1-i, 2-e, 3-h,4-a,5-b,6-j,7-c,8-d,9-f,10-g
 
 1.8
 1. Nous sommes en train de chanter une chanson.
 2. Elle est en train de dessiner un mouton.
 3. Je suis en train de travailler dans la cuisine.
-4. Tu es en train de effacer le tableau.
-5. Vous êtes en train de étudier l’histoire européenne.
+4. Tu es en train d'effacer le tableau.
+5. Vous êtes en train d'étudier l’histoire européenne.
 6. Nous sommes en train de bavarder dans le jardin.
 7. Il est en train de corriger les copies.
 8. Tu es en train de laver la chemise.
@@ -96,7 +96,7 @@ rappelez
 Elle chante dans cette chorale depuis trois ans.
 Je partage cet appartement depuis six mois.
 Il nage dans cette piscine depuis un mois.
-Je habite à Montpellier depuis 2004
+J'habite à Montpellier depuis 2004
 Il possède cette propriété depuis dix ans.
 Vous regardez cette émission depuis des années.
 Il travaille dans cette entreprise depuis 2002
@@ -105,16 +105,16 @@ Il est président depuis 2005
 Ce magasin est fermé depuis deux mois.
 
 1.10
-Je étudie fran_ais
-J'eppelle mon nom.
-Ils sont déménager demain.
-Elle aimer voyager par bateau.
-Combien de temps es-tu étudies fran_ais
-Tu répéte le sentence.
-Nous sommes financier le projet.
+J'étudie fran_ais
+J'épelle mon nom.
+Ils déménagent demain.
+Elle aime voyager en bateau.
+Depuis combien de temps étudies-tu le fran_ais
+Tu répètes la phrase.
+Nous finançons le projet.
 Elle annule la réunion.
-Combien de temps es-tu habites dans cette maison
-Je porte les legumes.
+Depuis combien de temps habites-tu dans cette maison
+Je pèse les legumes.
 
 
 
