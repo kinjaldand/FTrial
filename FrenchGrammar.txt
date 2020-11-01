@@ -69,7 +69,7 @@ Negative Form:
     ni-ni
 
     The negation ni… ni… precedes each noun that it negates. In addition, the negative particle ne
-    (n’) comes directly before the verb. When the defi nite article le, la, l’, les is used before the noun,
+    (n’) comes directly before the verb. When the definite article le, la, l’, les is used before the noun,
     the definite article remains when the verb is negative.
     
         Il aime le café et le chocolat. He likes coff ee and chocolate.
@@ -77,7 +77,7 @@ Negative Form:
         Elle aime le bleu et le jaune. She likes blue and yellow.
         Elle n’aime ni le bleu ni le jaune. She likes neither blue nor yellow.
         
-    When the indefi nite or partitive article is used before the noun in the affi rmative sentence,
+    When the indefinite or partitive article is used before the noun in the affirmative sentence,
     the article disappears when the verb is made negative.
     
         Elle commande de l’eau et du vin. She orders water and wine.
@@ -85,6 +85,64 @@ Negative Form:
         Il vend des oranges et des mangues. He sells oranges and mangoes.
         Il ne vend ni oranges ni mangues. He sells neither oranges nor mangoes.
                 
+Special Verbs
+    etre
+        suis,es,est,sommes,êtes,sont
+    
+    avoir
+        ai,as,a,avons,avez,ont
+    
+    Savoir
+    
+        sais,sais,sait,savons,savez,savent
+        
+        Savoir means to know a fact, to know how to do something from memory or study.
+        savoir is sometimes translated by can. 
+        Before a dependent clause or before an infinitive, only savoir can be used.
+            Je ne sais pas où il est. I don’t know where he is.
+            Il sait qu’elle est occupée. He knows she is busy
             
+    Connaître  
+    
+        connais,connais,connaît, connaissons,connaissez,connaissent
+        
+        Connaître means to know, to be acquainted with, to be familiar with. In a figurative way, it means to enjoy, to experience. It is always followed by a direct object; it is never followed by a dependent clause
+        
+            Elle connaît bien Paris. She knows Paris well.
+            Connaissez-vous les Tavernier? Do you know the Taverniers?
+            Son nouveau roman connaît un grand succès. His new novel is enjoying great success.
+    
+    Pouvoir
+    
+        peux,peux,peut,pouvons,pouvez,peuvent
+        
+        Pouvoir (can, may) expresses ability and capability.
+        
+        When asking permission with inversion in formal style, the first-person singular of pouvoir
+        takes a different form.
+            Puis-je vous aider? May I help you?
+            Puis-je vous donner un conseil? May I give you a piece of advice?
             
+        Another formal way of asking questions is to use the conditional form of pouvoir. 
+            Pourriez-vous résoudre ce problème? Could you solve this problem?
+            Pourriez-vous annuler notre vol? Could you cancel our flight?
             
+    Vouloir
+    
+        veux,veux,veut,voulons,voulez,veulent
+        
+        The verb vouloir (to want) is used to express wishes and desires. 
+        It is also used for a polite request in the conditional form.
+        
+            Elle veut une augmentation. She wants a raise.
+            Nous voulons une table près de la cheminée. We want a table by the fi replace.
+            Je voudrais vous parler. I would like to speak with you.
+            
+        
+    
+    
+    
+    
+    
+    
+    

@@ -233,3 +233,139 @@ Agrandit-elle les photos.
 9. He never takes off his hat.              Il n'enlève jamais son chapeau
 10. She never lies.                         Elle ne ment jamais
 
+3.1
+est
+sommes
+sont
+es
+sont
+êtes
+est
+ne sont pas
+est
+suis
+
+3.2
+Ils sont en retard
+Le climat est sec.
+Je suis libre ce soir
+Il est heureux
+Elle est sympathique
+Ce restaurant français est cher.
+Je suis fatigué.
+Nous sommes à la bonne adresse
+Ce film est amusant
+Le musée est ouvert
+
+3.3
+avons
+n'as pas
+j'ai
+vous avez
+Elle a beaucoup
+Ils ont une
+Tu as une
+Nous ne avons pas besoin
+Vous ne avez pas toujours
+J'ai froid
+
+3.4
+1. J’ai faim, alors a. au casino
+2. Il a peur b. à la tête
+3. Ils ont de la chance c. fatigué
+4. L’étudiant de français a besoin d. il ouvre la fenêtre
+5. Tu as mal e. de longues vacances
+6. Il a tort, alors f. elle boit un verre d’eau
+7. Vous avez l’air g. je mange quelque chose
+8. Ils ont très envie h. il présente ses excuses
+9. Il a chaud, alors i. d’un nouveau dictionnaire
+10. Elle a soif, alors j. des fantômes
+
+1g,2j,3a,4i,5b,6h,7c,8e,9d,10f
+
+3.5
+1. I am tired.              je suis fatigué
+2. He is very hungry.       Il est très faim
+3. They are always right.       Ils sont toujours raison
+4. Are they French?             Sont-ils français?
+5. Are you afraid of his reaction?          Est-ce que tu as peur de son reaction
+6. He is ashamed.               Il est honteux
+7. They have a dog.             Ils ont un chien
+8. She has a new hat.           Elle a un nouveau chapeau
+9. It’s very expensive.         C'est très cher.
+10. Close the window. We are cold.      Fèrme le fenetre. Nous avons froid.
+
+3.6
+savez
+sais
+ne sait pas
+savons
+sais
+sais
+ne sait pas
+Savez
+sais
+savez
+
+3.7
+connaissent
+connaissons
+connaît
+connais
+connaît
+connaissez
+connaissez
+connais
+connaît
+Connaissez
+
+3.8
+sais
+sait
+sais
+connaissons
+sais
+connaissent
+connaît
+connaissez
+sait
+connaissons
+
+3.9
+voulons
+ne peux pas
+veux
+pouvons
+veux
+pouvez
+peut
+peut
+voulent
+voulez
+pouvent
+
+3.10
+1. Je apercois un château en haut de la colline.
+2. Il prévoit un avenir meilleur.
+3. Il pleut toujours dans cette région.
+4. Nous vuyons une amélioration.
+5. Tu décevois ton professeur.
+6. Cette organisation promeut la recherche scientifi que.
+7. Cela vaut très cher.
+8. Il faut apprendre les conjugaisons.
+9. Cet écrivain émouvoit le public.
+10. Vous recevons nos félicitations
+
+3.11
+1. Can you swim?                Peux-tu nager?
+2. Can he cook?                 Peux-tu cuisiner?
+3. I don’t know where he is.    Je ne sais pas où il est.
+4. Can she fill out this form?      Peut-elle remplir cette formulaire?
+5. She knows Caroline.              Elle connaît Caroline
+6. Do you know this French song by heart?           Sais-tu connais cet chanton par coeur
+7. It is raining in France.             Il pleut en français
+8. You must arrive at noon.             Vous devez arriver a bientôt
+9. He foresees a great improvement.         Il prévoit un grand improvement 
+10. I see the castle.                       Je vois le chateau.
+
+
