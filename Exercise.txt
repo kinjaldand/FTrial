@@ -122,28 +122,28 @@ cueillons
 finissent
 remplis
 investissons
-mentissent
-ouvrent
+mentent
+ouvres
 réfléchissez
 sens
-offrissent
-meut
+offrent
+meurt
 
 2.2
 1-h,2-j,3-a,4-e,5-i
 6-b,7-d,8-f,9-g,10-c
 
 2.3
-Nous partions à dix heures.
+Nous partons à dix heures.
 Elle ouvre la porte
-Nous apportez des fleurs dans le jardin de Florence.
-Le voiture ralentit
-Nous sors dehors se soir.
-Elle seizer la opportune
-Elle blushis facilement.
-Ils courent vide.
-Elle solve le misterie
-Ils dorment dans le salle de Sonia.
+Nous cueillez des fleurs dans le jardin de Florence.
+La voiture ralentit
+Nous sortons se soir.
+Elle saisit l'occasion
+Elle rougit facilement.
+Ils courent vite.
+Elle résout le mystère.
+Ils dorment dans la chambre de Sonia.
 
 2.4
 répondons
@@ -158,13 +158,13 @@ prétend
 étendent
 
 2.5
-1h,2e,3g,4d,5a
-6c,7b,8j,9i,10f
+1h,2e,3g,4i,5a
+6c,7b,8j,9d,10f
 
 2.6
 prenons
 entreprend
-apprend
+apprends
 comprenez
 apprennent
 surprend
@@ -174,16 +174,16 @@ prends
 comprend
 
 2.7
-1. He is learning Chinese.          Il apprend chinois
-2. She takes the subway every day.          Elle prend le metro chaque jour.
-3. He often loses his keys.             Il souvent pred son cles
-4. I can hear Pierre on the street.         J'entend Pierre dans la rue.
-5. He claims to be the king’s brother.          Il prétend le frere de roi
-6. You answer quickly.          Vous responez vide
+1. He is learning Chinese.          Il apprend le chinois
+2. She takes the subway every day.          Elle prend le métro tous les jours.
+3. He often loses his keys.             Il perd souvent ses clés
+4. I can hear Pierre on the street.         J'entends Pierre dans la rue.
+5. He claims to be the king’s brother.          Il prétend être le frere de roi
+6. You answer quickly.          Vous répondez rapidement
 7. She sells fl owers.          Elle vend des fleurs
-8. We go down the Champs-Élysées.           Nous descendons le Champs-Élysées
-9. I am going down.                         Je descend
-10. We are waiting for an answer.           Nous attendons pour un response.
+8. We go down the Champs-Élysées.           Nous descendons les Champs-Élysées
+9. I am going down.                         Je descends
+10. We are waiting for an answer.           Nous attendons une réponse.
 
 2.8
 Remplissent-ils les formulaires
@@ -222,14 +222,14 @@ Agrandit-elle les photos.
 10. Il ne maigrit pas en vacances.
 
 2.11
-1. I am learning Japanese.              J'apprend Japonais
+1. I am learning Japanese.              J'apprends le Japonais
 2. He does not speak Italian.           Je ne parle pas italien
-3. She eats neither meat nor cheese.            Elle mange ni meat ni fromage    
-4. They never listen to anybody.            Ils ne entrend jamais chaqun personne
+3. She eats neither meat nor cheese.            Elle ne mange ni viande ni fromage    
+4. They never listen to anybody.            Ils n'écoutent jamais  personne
 5. You work late.                   Vous travaillez tard
-6. They like neither tea nor coffee.            Ils aiment ni thé ni coffee
-7. Do you understand the question?              Est-ce que vous comprend la question
-8. We pick fl owers in the garden.          Nous apportons les fleurs dans le jardin.
-9. He never takes off his hat.              Il ne enlève jamais son chapeau
+6. They like neither tea nor coffee.            Ils n'aiment ni thé ni café.
+7. Do you understand the question?              Est-ce que vous comprenez la question
+8. We pick fl owers in the garden.          Nous cueillons des fleurs dans le jardin.
+9. He never takes off his hat.              Il n'enlève jamais son chapeau
 10. She never lies.                         Elle ne ment jamais
 
