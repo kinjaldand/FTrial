@@ -1,0 +1,45 @@
+Verb Congugation
+    er verbs
+        e,es,e,ons,ez,ent
+    cer
+        nous
+            cer-çons
+            eg: prononçons, annonçons, avançons
+        OTHERS
+            cer - c + ending
+    ger
+        nous
+            ger - eons
+            eg: mangeons
+        OTHERS
+            ger - g + ending
+    -e + consonant + -er,
+        nous, vous
+            e + consonant + ending
+        OTHERS
+            è + consonant + ending
+    -é + consonant + -er,
+        nous, vous
+            é + consonant + ending
+        OTHERS
+            è + consonant + ending            
+    -e + l + -er,
+        nous, vous
+            e + l + ending
+        OTHERS
+            e + ll + ending            
+        
+        
+Tense
+    Present tense
+        General Statements
+        Close future
+        habitual action
+        To describe a past action closely connected to the present
+        To express a historical fact
+        To describe past events more dramatically
+        To express an action in the process, être en train de + the infinitive form of the verb is used
+        DEPUIS
+            The present tense is used to express an action that began in the past and continues in the present.
+            Note that in English, the past tense is used.
+            There are diff erent ways to formulate the questions, using either depuis, il y a... que, cela (ça) fait... que
