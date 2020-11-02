@@ -511,6 +511,54 @@ craint, feint,plaignent,ceint,feignez,craignons,peignez, craignent,teint,se plai
 10. It’s a matter of passion.           Il s'agit de passion.
 
 
+6.1
+m'habille, nous levons, se coupe, te couche, se lavent, te peigns,
+vous baladez, se reposent , nous amusons, se détent
+
+6.2
+se marient, vous embrassez, nous écrirons, se retrouvent, se voit, 
+nous téléphonez, vous quittez, nous disputons, se détestent, nous rencontrons
+
+6.3
+1. Elle s’aperçois de sa gaffe.
+2. Ils se dépêchent pour arriver à l’heure.
+3. Tu t’attends à sa visite.
+4. Qu’est-ce qui se passe ?
+5. Vous vous servissez d’un nouvel appareil.
+6. Je me rends compte de mon erreur.
+7. Tu te demande ce qui va se passer.
+8. Elle se dépêche car elle est en retard.
+9. Tu te trompe de chemin.
+10. L’oiseau se envole dans le ciel.
+
+6.4
+1. J’aime me promener le long de la Seine.
+2. À quelle heure est-ce que tu vas te leve ?
+3. Nous venons de nous renons compte des conséquences.
+4. Elle ne peut pas se souvenit de son nom.
+5. Ils doivent se marient au printemps.
+6. Vous allez vous demandez pourquoi il quitte Paris.
+7. Nous voulons nous écrons plus souvent.
+8. Je dois m'habille pour aller au bal.
+9. Vous allez vous voir pendant les vacances?
+10. Nous ne pouvons pas nous plaignons de la situation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
