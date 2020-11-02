@@ -512,36 +512,36 @@ craint, feint,plaignent,ceint,feignez,craignons,peignez, craignent,teint,se plai
 
 
 6.1
-m'habille, nous levons, se coupe, te couche, se lavent, te peigns,
-vous baladez, se reposent , nous amusons, se détent
+m'habille, nous levons, se coupe, te couches, se lavent, te peignes,
+vous baladez, se reposent , nous amusons, se détend
 
 6.2
-se marient, vous embrassez, nous écrirons, se retrouvent, se voit, 
-nous téléphonez, vous quittez, nous disputons, se détestent, nous rencontrons
+se marient, vous embrassez, nous écrivons, se retrouvent, se voient, 
+nous téléphonons, vous quittez, nous disputons, se détestent, nous rencontrons
 
 6.3
 1. Elle s’aperçois de sa gaffe.
 2. Ils se dépêchent pour arriver à l’heure.
 3. Tu t’attends à sa visite.
 4. Qu’est-ce qui se passe ?
-5. Vous vous servissez d’un nouvel appareil.
+5. Vous vous servez d’un nouvel appareil.
 6. Je me rends compte de mon erreur.
-7. Tu te demande ce qui va se passer.
+7. Tu te demandes ce qui va se passer.
 8. Elle se dépêche car elle est en retard.
-9. Tu te trompe de chemin.
-10. L’oiseau se envole dans le ciel.
+9. Tu te trompes de chemin.
+10. L’oiseau s'envole dans le ciel.
 
 6.4
 1. J’aime me promener le long de la Seine.
-2. À quelle heure est-ce que tu vas te leve ?
-3. Nous venons de nous renons compte des conséquences.
-4. Elle ne peut pas se souvenit de son nom.
-5. Ils doivent se marient au printemps.
-6. Vous allez vous demandez pourquoi il quitte Paris.
-7. Nous voulons nous écrons plus souvent.
-8. Je dois m'habille pour aller au bal.
+2. À quelle heure est-ce que tu vas te lever ?
+3. Nous venons de nous rendre compte des conséquences.
+4. Elle ne peut pas se souvenir de son nom.
+5. Ils doivent se marier au printemps.
+6. Vous allez vous demander pourquoi il quitte Paris.
+7. Nous voulons nous écrire plus souvent.
+8. Je dois m'habiller pour aller au bal.
 9. Vous allez vous voir pendant les vacances?
-10. Nous ne pouvons pas nous plaignons de la situation.
+10. Nous ne pouvons pas nous plaindre de la situation.
 
 6.5
 1. Ils sont toujours ensemble. a. Ils s’écrivent.
@@ -553,16 +553,16 @@ nous téléphonez, vous quittez, nous disputons, se détestent, nous rencontrons
 1e, 2a,3d,4c,5b
 
 6.6
-1. Get up!              Leve-toi!
-2. She is getting dressed for the party.    Elle s'habille pour le fête
-3. She cuts her hair.               Elle se coupe sa cheveux.
-4. We are walking in the park.      Nous nous promenadons dans le jardin.
-5. They rest because their legs are tired.      Ils se reposent parce que leur jambes sont tirent.
-6. He is shaving.           Il se shave
-7. They just got married.       Ils se marient.
-8. They write to each other.    Ils se écrivent.
-9. He is tired. He sits on a bench. Il est tire. Il s'assesoit sur le bench.
-10. They love each other.       Ils s'amour.
+1. Get up!              Lève-toi!
+2. She is getting dressed for the party.    Elle s'habille pour la soirée.
+3. She cuts her hair.               Elle se coupe les cheveux.
+4. We are walking in the park.      Nous nous promenons dans le parc.
+5. They rest because their legs are tired.      Elles se reposent car leur jambes sont fatiguées.
+6. He is shaving.           Il se rase.
+7. They just got married.       Ils viennent de se marier.
+8. They write to each other.    Ils s'écrivent.
+9. He is tired. He sits on a bench. Il est fatigué. Il s'assoit sur un banc.
+10. They love each other.       Ils s'aiment.
 
 
 

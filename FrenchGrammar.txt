@@ -264,7 +264,7 @@ Special Verbs
                 
         Passive pronominals
             A third type of pronominal verb is called passive. With the passive pronominal verbs, the subject
-            is not a person or an animal. Th e subject does not perform the action of the verb but rather is
+            is not a person or an animal. The subject does not perform the action of the verb but rather is
             subjected to it. It is in the third-person singular, with se.
             
                 Ça ne se dit pas. Th is is not said.
@@ -295,7 +295,7 @@ Special Verbs
                 
         Pronominals in the imperative and the infinitive
         
-            The pronominal verbs are oft en used in the imperative, to give commands (Hurry up! Get up!Let’s go!). 
+            The pronominal verbs are often used in the imperative, to give commands (Hurry up! Get up!Let’s go!). 
             For the affirmative imperative, add the stressed
             pronoun toi, nous, or vous after the verb, connected with a hyphen.
             
@@ -309,7 +309,7 @@ Special Verbs
                 Ne nous servons pas de cette machine! Let’s not use this machine!
                 Ne vous installez pas dans cette région! Do not settle in this region!
                 
-            When pronominal verbs are used in the infi nitive, the refl exive pronoun is always in the
+            When pronominal verbs are used in the infinitive, the reflexive pronoun is always in the
             same person and number as the subject, and it precedes the infinitive.
             
                 Vous allez vous apercevoir de votre erreur. You are going to realize your mistake.
