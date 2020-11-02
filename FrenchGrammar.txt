@@ -49,7 +49,17 @@ Tense
         DEPUIS
             The present tense is used to express an action that began in the past and continues in the present.
             Note that in English, the past tense is used.
-            There are diff erent ways to formulate the questions, using either depuis, il y a... que, cela (ça) fait... que
+            There are different ways to formulate the questions, using either depuis, il y a... que, cela (ça) fait... que
+            
+    Immediate Future Tense 
+        aller+verb
+        Aller is also used to form the immediate future. So, to talk about what you are "going to do",use
+        aller in the present indicative followed immediately by a verb in the infinitive
+        
+    Immediate Past Tense
+        venir + de +verb
+        venir (to come) in the present tense +  de, combined with a verb in the infinitive
+        expresses an action that has just taken place
             
             
 Interrogative
@@ -86,7 +96,7 @@ Negative Form:
         Il ne vend ni oranges ni mangues. He sells neither oranges nor mangoes.
                 
 Special Verbs
-    etre
+    être
         suis,es,est,sommes,êtes,sont
     
     avoir
@@ -138,11 +148,69 @@ Special Verbs
             Nous voulons une table près de la cheminée. We want a table by the fi replace.
             Je voudrais vous parler. I would like to speak with you.
             
+    Aller
+        vais, vas,va,allons,allez,vont
+        Used in Immedaite future tense
+    
+    Venir (to come) and its derivatives, 
+        devenir (to become), prévenir (to warn, to inform),survenir (to occur)
         
+        viens,viens,vient,venons,venez,viennent
+        Used in Immedaite past
     
+    Tenir (to hold)
+        tiens,tiens,tient,tenons,tenez,tiennent
+        
+        Tenir has several diff erent meanings.
+            Le directeur ne tient jamais ses promesses. The manager never keeps his promises.
+            Il tient son fi ls par la main. He is holding his son’s hand.
+            La caféine la tient éveillée. Caff eine keeps her awake.
+            Ils tiennent un restaurant à Nice. Th ey run a restaurant in Nice.
+            Toutes ces aff aires ne vont pas tenir dans ta valise. All these things won’t fit in your suitcase.
+            Ils tiennent le rythme. Th ey are keeping up the pace.
+            Elle tient compte de vos commentaires. She takes your comments into account.
+            Tiens, tiens, c’est étrange... Well, well, this is strange . . .
+            Tiens, prends ces trois livres. Here, take these three books.
+            
+        When used with the preposition à or de, tenir takes on another meaning.
+            Elle tient à ses bijoux. She is attached to her jewels.
+            Ils tiennent à leurs habitudes. Th ey are attached to their habits.
+            Marc tient à vous voir. Marc insists on seeing you.
+            De qui tient-elle? Whom does she take aft er?
+            Elle tient de sa mère. She takes after her mother.
     
-    
-    
+    Faire (to do, to make)
+        fais,fais,fait,faisons,faites,font
+        
+            Qu’est-ce que vous faites ce soir? What are you doing tonight?
+            Nous faisons un gâteau. We’re making a cake.
+            Il ne sait pas quoi faire. He does not know what to do.
+            
+        Faire is also used in expressions relating to chores, activities, sports, etc.
+            Elle fait les courses ici. She shops here.
+            Tu ne fais jamais la cuisine? You never cook?
+            Il fait le ménage le samedi. He does the housecleaning on Saturdays.
+            Viens faire une promenade! Come take a walk!
+            L’enfant fait la vaisselle. The child is doing the dishes.
+            Je ne veux pas faire la queue. I don’t want to stand in line.
+            Ça fait combien? How much does it cost?
+            Tu fais du vélo? Do you ride a bike?
+            Vous faites du sport? Do you play sports?
+        
+        The causative form:
+            faire + verb 
+        
+            The causative form is, in most cases, used to express the idea of having something done by someone
+            or of causing something to happen. It is formed with the verb faire followed by an infinitive.
+            
+            verb faire followed by an infinitive
+            
+                Elle écrit la lettre elle-même. She writes the letter herself.
+                Elle fait écrire la lettre par sa secrétaire. She has the letter written by her secretary.
+                Ils envoient le document. They send the document.
+                Ils font envoyer le document. They have the document sent.
+                Elle fait la robe. She is making the dress.
+                Elle fait faire la robe. She is having the dress made.
     
     
     
