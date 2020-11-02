@@ -475,14 +475,14 @@ fait
 doit , dois, devez, doit, ne doivent pas, dois, doit, doivent,dois, dois
 
 5.2
-1. You must cook tonight.       Tu dois faire la cuisiner ce soir.
+1. You must cook tonight.       Tu dois faire la cuisine ce soir.
 2. She must not work today.     Elle ne doit pas travailler aujourd'hui.
-3. At what time is he supposed to arrive?   à  quelle heure est-il doit arriver?
-4. How much do I owe you?       Combien je vous dois?
-5. Why must he sell his car?        Pourquoi  il doit vendre sa voiture?
-6. She owes an excuse to Carole.    Elle doit s'excuser à  Carole?
-7. Are we supposed to know these verbs?     Est-ce que nous devons savoir ces verbs?
-8. He owes two thousand dollars to the bank.    Il doit deux mille dollars à  la banue.
+3. At what time is he supposed to arrive?   à  quelle heure est-ce qu'il doit arriver?
+4. How much do I owe you?       Combien est-ce que je vous dois?
+5. Why must he sell his car?        Pourquoi  est-ce qu'il doit vendre sa voiture?
+6. She owes an excuse to Carole.    Elle doit une excuse à  Carole?
+7. Are we supposed to know these verbs?     Est-ce que nous devons connaître ces verbs?
+8. He owes two thousand dollars to the bank.    Il doit deux mille dollars à  la banque.
 9. You should call Vincent.         Tu dois appeler Vincent.
 10. You should not invite Pierre.   Tu ne dois pas inviter Pierre.
 
@@ -496,19 +496,19 @@ doit , dois, devez, doit, ne doivent pas, dois, doit, doivent,dois, dois
 1e, 2a, 3d,4c, 5b 
 
 5.4
-craint, feint,plaignent,ceint,feignons,craignons,peignez, craignent,teint,se plaint
+craint, feint,plaignent,ceint,feignez,craignons,peignez, craignent,teint,se plaint
 
 5.5
-1. She is painting the kitchen.         Elle peint la salle de cuisiner.
-2. There is a dog in the car.           Il y a un chine dans la voiture.
+1. She is painting the kitchen.         Elle peint la cuisine.
+2. There is a dog in the car.           Il y a un chien dans la voiture.
 3. They pity the poor child.            Ils plaignent le pauvre enfant
-4. This book is about the French president.     Cette livre s'agit du president français.
-5. What is it about?                    quel s'agit de?
-6. He fears the worst.                  Il craint le meur.
-7. There are books on the table.        Il y a livres sur la table.    
-8. Is there a computer?                 Il y a ordinateur?
+4. This book is about the French president.     Dans ce livre, il s'agit du président français.
+5. What is it about?                    De quoi est-ce qu'il s'agit?
+6. He fears the worst.                  Il craint le pire.
+7. There are books on the table.        Il y a des livres sur la table.    
+8. Is there a computer?                 Est-ce qu'il y a un ordinateur?
 9. Are you painting the flowers?        Est-ce que tu peins les fleurs?
-10. It’s a matter of passion.           Il s'agit de amour.
+10. It’s a matter of passion.           Il s'agit de passion.
 
 
 
