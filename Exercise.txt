@@ -565,25 +565,25 @@ nous téléphonons, vous quittez, nous disputons, se détestent, nous rencontron
 10. They love each other.       Ils s'aiment.
 
 7.1
-a invité, avons refusé, as travaillé, a compris, a apporté,ai voyagé, allez loué, a sous-titré, allez téléphoné, as assisté
+a invité, avons refusé, as travaillé, a compris, a apporté,ai voyagé, allez loué, a sous-titré, avez téléphoné, as assisté
 
 7.2
-ont investi, a applaudi, ont réféchi, a ralenti, ont attendu, avons réussi, a perdu, as grandi, a senti, a vendu
+ont investi, a applaudi, ont réfléchi, a ralenti, ont attendu, avons réussi, a perdu, as grandi, a senti, a vendu
 
 7.3
-1. They sold the house in France.       Ils ont vendu la maison en france
+1. They sold the house in France.       Ils ont vendu la maison en France
 2. I waited ten minutes.            J'ai attendu dix minutes
-3. He fi nished the novel.          Il a fîni le roman.
-4. She lost her dictionary.         Elle a perdu sa bibliothequé.
-5. I called Marc.                   J'ai appelle Marc.
-6. They served an elegant dinner.       Ils ont servi un dîner elegant
-7. He bought a car.                 Il a apporté une voiture.
-8. I chose a very good cheese.      J'ai choisi une très bonne fromage.
-9. We watched the fi lm.            Nous a montré le film.
-10. They applauded the actor.       Ils ont applaudé l'actor
+3. He fi nished the novel.          Il a fini le roman.
+4. She lost her dictionary.         Elle a perdu son dictionnaire.
+5. I called Marc.                   J'ai appelé Marc.
+6. They served an elegant dinner.       Ils ont servi un dîner élégant
+7. He bought a car.                 Il a acheté une voiture.
+8. I chose a very good cheese.      J'ai choisi un très bon fromage.
+9. We watched the fi lm.            Nous avons regardé le film.
+10. They applauded the actor.       Ils ont applaudi le comédien.
 
 7.4
-ai pris, ne avons pas pu , ont suivi, a peint, a plu, allez reçu, avons lu, ai fait, a mis, a ouvert
+ai pris, n'avons pas pu , ont suivi, a peint, a plu, avez reçu, avons lu, ai fait, a mis, a ouvert
 
 7.5
 1. Elle a conduit a. le journal
@@ -596,31 +596,31 @@ ai pris, ne avons pas pu , ont suivi, a peint, a plu, allez reçu, avons lu, ai 
 
 
 7.6
-est monté, sommes rentrés, est tombée, sont descendrés, sont revenis, est parti, est allée, est allé, est morte, est resté 
+est-il monté, sommes rentrés, est tombée, sont descendus, sont revenues, est-il parti, est allée, est allé, est mort, est resté 
 
 7.7
 1. She read the newspaper.              Elle a lu le journal
-2. We went to Paris.                Nous sommes allons à Paris
-3. They left last night.            Ils sont partis dernier nuit.
-4. He had to leave at five o’clock.  Il a du à partir à conq heures
-5. They lived in Italy.                 Ils ont habiter en Italie
+2. We went to Paris.                Nous sommes allés à Paris
+3. They left last night.            Ils sont partis hier soir.
+4. He had to leave at five o’clock.  Il a dû  partir à cinq heures
+5. They lived in Italy.                 Ils ont habité en Italie
 6. Zola died in 1902.               Zola est mort en 1902
-7. I wrote a long letter.           J'ai écrire une longue lettre
-8. She has painted the wall white.      Elle a pient le mur blanche
-9. She stayed at home.                  Elle est resté à la maison.
-10. He took some vacation.              Il a fait un vacance.
+7. I wrote a long letter.           J'ai écrit une longue lettre
+8. She has painted the wall white.      Elle a pient le mur en blanc
+9. She stayed at home.                  Elle est restée à la maison.
+10. He took some vacation.              Il a pris des vacances.
 
 7.8
-se sont promenée,
+se sont promenés,
 s'est douté,
 se sont maquillées,
-se sont écriré,
-se sommes arrêté
-se sont occupé
+se sont écrit,
+nous sommes arrêtés
+se sont occupés
 se sont baladées
 se sont rencontrés
-s'es coupé
-se sommes demandés
+t'es coupé
+nous sommes demandé
 
 7.9
 1. Elle a sorti a. le bifteck
@@ -629,19 +629,19 @@ se sommes demandés
 4. Je suis passée d. très tard
 5. Elle est retourné à Rome e. les chaises de jardin
  
-1a, 2e,3d, 4b,5c
+1e, 2a,3d, 4b,5c
 
 7.10
-1. They spent a month in China.     Ils ont passer un mois en Chine.
-2. She fainted.                     Elle s'est fainté
+1. They spent a month in China.     Ils ont passé un mois en Chine.
+2. She fainted.                     Elle s'est évanouie
 3. They kissed each other.          Ils se sont embrassés.
-4. They had fun at the party.       Ils se sont fun au fait.
-5. She took the suitcases down.     Elle a montre les chaises au dela.
-6. He brushed his teeth.            Il s'est brosse sa tooth.
-7. He woke up tired.                Il s'est woke trist
-8. They wrote each other regularly.     Ils se sont écrirés régulariment
-9. Anna stopped for ten minutes.        Anna s'est stop pour dix minutes
-10. He flipped the omelette.            Il a filp le omelette.
+4. They had fun at the party.       Ils se sont amusés à la soirée.
+5. She took the suitcases down.     Elle a descendu les valises.
+6. He brushed his teeth.            Il s'est brossé les dents.
+7. He woke up tired.                Il s'est réveillé fatigué
+8. They wrote each other regularly.     Ils se sont écrit régulièrement
+9. Anna stopped for ten minutes.        Anna s'est arrêtée pour dix minutes
+10. He flipped the omelette.            Il a retourné l’omelette.
  
 
 
