@@ -1,0 +1,5 @@
+ç – the cedilla (la cédille)
+é – the acute accent (l'accent aigu)
+â/ê/î/ô/û – the circumflex (l'accent circonflexe)
+à/è/ì/ò/ù – the grave accent (l'accent grave)
+ë/ï/ü – the trema (l'accent tréma)
